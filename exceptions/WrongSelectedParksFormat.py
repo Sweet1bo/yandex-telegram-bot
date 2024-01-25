@@ -1,0 +1,2 @@
+class WrongSelectedParksFormat(Exception):
+    pass

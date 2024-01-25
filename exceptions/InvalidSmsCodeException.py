@@ -1,0 +1,2 @@
+class InvalidSmsCodeException(Exception):
+    pass

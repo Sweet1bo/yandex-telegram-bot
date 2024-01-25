@@ -1,0 +1,2 @@
+class SmsLimitExceededException(Exception):
+    pass
